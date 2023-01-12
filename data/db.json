@@ -1,0 +1,22 @@
+{
+  "contacts": [
+    {
+      "name": "Gzim",
+      "lastname": "Darrdhishta",
+      "address": "Tefik Raka ",
+      "city": "Kaqanik ",
+      "country": "Kosov",
+      "emailInput": [
+        {
+          "email": "gzimdardhishta0@gmail.com"
+        }
+      ],
+      "numberInput": [
+        {
+          "number": "045842753"
+        }
+      ],
+      "id": 1
+    }
+  ]
+}
